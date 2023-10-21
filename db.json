@@ -287,13 +287,17 @@
     },
     {
         "id":23,
-        "title":"",
-        "image":"",
-        "price":"",
-        "category":"",
-        "rating":"",
-        "description":"",
-        "small-Image":[]
+        "title":"Allen Solly womens Jacket",
+        "image":"https://m.media-amazon.com/images/I/61kFggMvERL._UY741_.jpg",
+        "price":"1,468",
+        "category":"women",
+        "rating":"3.9",
+        "description":"allen-solly-green-jacket.100% Polyester.Jacket Is A Versatile Fashion Choice You Can Wear On Any Occasion",
+        "small-Image":[
+            "https://m.media-amazon.com/images/I/61kFggMvERL._UY741_.jpg",
+            "https://m.media-amazon.com/images/I/61+Ok6YnJaL._UY550_.jpg",
+            "https://m.media-amazon.com/images/I/61zU8m1NJUL._UY550_.jpg"
+        ]
     },
     {
         "id":24,
@@ -391,5 +395,89 @@
         ]
     }
     ],
-    "cart":[]
+    "cart":[],
+    "bestseller":[
+        {
+            "id":8,
+            "title":"Puma Men Club Graphic Hoodie,Blue -Large",
+            "image":"https://m.media-amazon.com/images/I/618F2QyUUEL._UX522_.jpg",
+            "price":"1,889",
+            "category":"men",
+            "rating":"4.0",
+            "description":"Model Name:-PUMA CLUB Graphic Hoodie.Quality mid weight soft brushed fleece fabric ideal for pre winters and great for layering.",
+            "small-Image":[
+                "https://m.media-amazon.com/images/I/618F2QyUUEL._UX522_.jpg",
+                "https://m.media-amazon.com/images/I/71WgJCpa37L._UX466_.jpg",
+                "https://m.media-amazon.com/images/I/51Ju+mjpiaL._UX466_.jpg"
+            ]
+        },
+        {
+            "id":5,
+            "title":"Amazon Brand - Symbol Men Sweatshirt",
+            "image":"https://m.media-amazon.com/images/I/71mDnLzj8oL._UY550_.jpg",
+            "price":"499",
+            "category":"men",
+            "rating":"3.9",
+            "description":"Quality mid weight soft brushed fleece fabric ideal for pre winters and great for layering.",
+            "small-Image":[
+                "https://m.media-amazon.com/images/I/71mDnLzj8oL._UY550_.jpg",
+                "https://m.media-amazon.com/images/I/81jkz3ULOxL._UY550_.jpg",
+                "https://m.media-amazon.com/images/I/71axQoxT7KL._UY550_.jpg"
+            ]
+        },
+        {
+            "id":11,
+            "title":"Red Tape Men's Cotton Blend Round Neck Sweatshirt",
+            "image":"https://m.media-amazon.com/images/I/81ElA2yJR7L._UY550_.jpg",
+            "price":"575",
+            "category":"men",
+            "rating":"4.4",
+            "description":"60% Cotton, 40% Polyester' Fleece - 260 GSm,Long Sleeve Crew Neck.",
+            "small-Image":[
+                "https://m.media-amazon.com/images/I/81ElA2yJR7L._UY550_.jpg",
+                "https://m.media-amazon.com/images/I/81qV8igZ8nL._UY550_.jpg",
+                "https://m.media-amazon.com/images/I/81ns1n72XLL._UY550_.jpg"
+            ]
+        },
+        {
+            "id":26,
+            "title":"Leather Retail Women's Solid Jacket",
+            "image":"https://m.media-amazon.com/images/I/61uP32Ial0S._UY550_.jpg",
+            "price":"1,822",
+            "category":"women",
+            "rating":"4.0",
+            "description":"Make A Style Statement  The Distress Black Faux Leather Jacket Is A Versatile Fashion Choice You Can Wear On Any Occasion. A Style Essential Piece For Men Which Will Reveal Your Strong Sense Of Personality.Sizing – This Is A Modern Fit Jacket. To Ensure It Fits Properly Please Refer To Our Size Chart Provided In The Image Gallery. For Example, If Your Chest Measurement Is 34 To 35 Inches Then Select Size “Medium”.",
+            "small-Image":[
+                "https://m.media-amazon.com/images/I/61uP32Ial0S._UY550_.jpg",
+                "https://m.media-amazon.com/images/I/61hZoNIHiGS._UY550_.jpg"
+            ]
+        },
+        {
+            "id":22,
+            "title":"Scott International IDry Jacket",
+            "image":"https://m.media-amazon.com/images/I/81coOGwUBML._UX466_.jpg",
+            "price":"529",
+            "category":"women",
+            "rating":"3.5",
+            "description":"All-in-One Design*: Our men's jacket is single layered, combining water-repellent technology with ultra-lightweight materials for maximum convenience and comfort.Foldable & Compact*: Easily fold and pack this jacket into your pocket or backpack when you're on the go, making it perfect for travel and outdoor activities.",
+            "small-Image":[
+                "https://m.media-amazon.com/images/I/81coOGwUBML._UX466_.jpg",
+                "https://m.media-amazon.com/images/I/81rswyU604L._UX466_.jpg"
+            ]
+        },
+        {
+            "id":29,
+            "title":"BLUETYGA SUNSCREEN JACKET Women's",
+            "image":"https://m.media-amazon.com/images/I/71yBBXqxgkL._UY550_.jpg",
+            "price":"1,499",
+            "category":"women",
+            "rating":"5.0",
+            "description":"SPF 50+ fabric technology: The fabric of the blue jacket is treated with a special sunscreen that blocks 98% of harmful UV rays. This helps to protect your skin from sunburn, and skin tanning.Cool rush: The blue jacket is made from a lightweight, breathable fabric that helps to keep you cool and comfortable. This is especially helpful when you are active or in hot weather.",
+            "small-Image":[
+                "https://m.media-amazon.com/images/I/71yBBXqxgkL._UY550_.jpg",
+                "https://m.media-amazon.com/images/I/715K1Y8ivbL._UY550_.jpg",
+                "https://m.media-amazon.com/images/I/71F0V2eDFRL._UY550_.jpg"
+            ]
+        }
+    ]
   }
